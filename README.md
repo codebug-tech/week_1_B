@@ -6,7 +6,7 @@
 2. Via the terminal, create a new folder on your desktop called `coding`.
 3. `cd` into your `coding` folder and create a `recipe.html` file.
 4. Use the `subl .` command to open the file in Sublime. 
-5. Click on the `recipe.html` page, type `html` in the file and hit `tab`. 
+5. Click on the `recipe.html` page, type `html` in the file, and hit `tab`. 
     * If that didn't autofill html for you, copy and paste this into your html file: 
     ``` HTML
       <!DOCTYPE html>     
@@ -18,9 +18,10 @@
          </body>
       </html>
     ```
-6. Add a title for your page with the name of your recipe. 
+6. Add a title for your page in the `title` html element with the name of your recipe. 
 
 # THE CODE
+> Don't worry if your recipe site doesn't look great, you'll be adding the styling later. 
 
 Your recipe page must include the following:
 
@@ -32,8 +33,7 @@ Your recipe page must include the following:
 * Links to 3 other suggested recipes.
 * A table of nutritional facts (You can make these up if you would like to!) 
 
-> Don't worry if your recipe site doesn't look great, you'll be adding the styling later. 
->  *Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe if you need inspiration* 
+> Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe if you need inspiration* 
 
 #### EXTENSION
 
