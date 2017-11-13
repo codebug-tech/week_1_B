@@ -1,5 +1,5 @@
 # RECIPE WEBSITE
-[TERMINAL help](https://github.com/codebug-tech/week-1-A)
+[TERMINAL HELP](https://github.com/codebug-tech/week-1-A)
 
 #### Your mission is create a webpage for your favorite recipe.
 1. Find a recipe you would like to use.
