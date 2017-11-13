@@ -33,7 +33,7 @@ Your recipe page must include the following:
 * Links to 3 other suggested recipes.
 * A table of nutritional facts (You can make these up if you would like to!) 
 
-> Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe if you need inspiration* 
+> *Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe if you need inspiration* 
 
 #### EXTENSION
 
